@@ -1,0 +1,42 @@
+[Software\\Classes\\line] 1511342175
+@="URL:LINE Protocol"
+"URL Protocol"=""
+
+[Software\\Classes\\line\\DefaultIcon] 1511342175
+@="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\",0"
+
+[Software\\Classes\\line\\shell] 1511342175
+@=""
+
+[Software\\Classes\\line\\shell\\open] 1511342175
+@=""
+
+[Software\\Classes\\line\\shell\\open\\command] 1511342175
+@="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\"  \"%1\""
+
+[Software\\Classes\\lineb] 1511342175
+@="URL:LINE Protocol"
+"URL Protocol"=""
+
+[Software\\Classes\\lineb\\DefaultIcon] 1511342175
+@="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\",0"
+
+[Software\\Classes\\lineb\\shell] 1511342175
+@=""
+
+[Software\\Classes\\lineb\\shell\\open] 1511342175
+@=""
+
+[Software\\Classes\\lineb\\shell\\open\\command] 1511342175
+@="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\"  \"%1\""
+
+[Software\\LINE Corporation\\LINE] 1511343214
+"Inatall Language"="1041"
+"InstallDir"="C:/users/$$USER$$/Local Settings/Application Data/LINE/bin/current"
+"InstallSystemVersion"="1"
+"LauncherPath"="C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe"
+"LauncherTicket"="1165731"
+"locale"="ja-JP"
+"localeMig"="Y"
+"RunOnce"="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\""
+
