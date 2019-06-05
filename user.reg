@@ -31,12 +31,9 @@
 @="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\"  \"%1\""
 
 [Software\\LINE Corporation\\LINE] 1511343214
-"Inatall Language"="1041"
-"InstallDir"="C:/users/$$USER$$/Local Settings/Application Data/LINE/bin/current"
+"CheckDeploy"="1"
+"InstallDir"="C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\$$VERSION$$"
+"InstallDirCandidate"="C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\$$VERSION$$"
 "InstallSystemVersion"="1"
 "LauncherPath"="C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe"
-"LauncherTicket"="1165731"
-"locale"="ja-JP"
-"localeMig"="Y"
-"RunOnce"="\"C:\\users\\$$USER$$\\Local Settings\\Application Data\\LINE\\bin\\LineLauncher.exe\""
-
+"NewVersionCandidate"="$$VERSION$$"
